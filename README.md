@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5/hub)
-- Live Site URL: [Add live site URL here](https://seangray-dev.github.io/FEM-manage-landing-page/)
+- Solution URL:(https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5/hub)
+- Live Site URL:(https://seangray-dev.github.io/FEM-manage-landing-page/)
 
 ### Built with
 
